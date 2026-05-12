@@ -1,6 +1,6 @@
 <!-- Header with animated typing effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Aman+Kumar;AI+%26+ML+Enthusiast;Final+Year+CSE+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Aman+Kumar;AI+%26+ML+Enthusiast;B.Tech+Graduate+2025" alt="Typing SVG" />
 </h1>
 
 <!-- Animated Badges -->
@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amankumarsaini&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Student-2025-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Graduate-2025-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to-Work-green?style=flat-square" />
 </p>
 
@@ -74,10 +74,10 @@
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:amankumarsaini4619@gmail.com">
+  <a href="mailto:amankumarsaini4619@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/amankumar" target="https://www.linkedin.com/in/aman-kumar-2aa40b308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/aman-kumar-2aa40b308" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
